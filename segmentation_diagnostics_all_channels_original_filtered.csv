@@ -1,0 +1,96 @@
+file_id,activity,pid,avg_segment_length,avg_snr_accy,valid_segments,segmentation_method,filter_applied
+1,Jumping Jack,TL,49.8,0.5641903454003871,1.0,original,True
+2,Jumping Jack,TL,54.4,0.642252220849023,1.0,original,True
+3,Jumping Jack,TL,48.8,0.5709302562474216,1.0,original,True
+4,Jumping Jack,TL,54.4,0.54961913701875,1.0,original,True
+5,Jumping Jack,TL,48.4,0.5756297026533879,1.0,original,True
+6,Push Up,TL,64.4,0.322611969163736,1.0,original,True
+7,Push Up,TL,61.2,0.3731189405838507,1.0,original,True
+8,Push Up,TL,59.0,0.36352144630312955,1.0,original,True
+9,Push Up,TL,62.2,0.363495029218892,1.0,original,True
+10,Push Up,TL,62.4,0.34915824136105084,1.0,original,True
+11,Squat ,TL,91.0,0.5536958178722248,1.0,original,True
+12,Squat ,TL,87.8,0.5813419311188481,1.0,original,True
+13,Squat ,TL,89.0,0.5805918232444242,1.0,original,True
+14,Squat ,TL,87.6,0.585104573206934,1.0,original,True
+15,Squat ,TL,92.2,0.5818721338655467,1.0,original,True
+16,Jumping Jack,WGC,59.0,0.5183963663696537,1.0,original,True
+17,Jumping Jack,WGC,56.2,0.6177332111628706,1.0,original,True
+18,Jumping Jack,WGC,51.8,0.5534563081086515,1.0,original,True
+19,Jumping Jack,WGC,53.6,0.5303529015889639,1.0,original,True
+20,Jumping Jack,WGC,50.8,0.5771210449514678,1.0,original,True
+21,Push Up,WGC,69.4,0.31796038928968734,1.0,original,True
+22,Push Up,WGC,79.0,0.2872542970589613,1.0,original,True
+23,Push Up,WGC,75.0,0.30341957659275515,1.0,original,True
+24,Push Up,WGC,71.6,0.34325765448629764,1.0,original,True
+25,Push Up,WGC,76.6,0.31970604248613305,1.0,original,True
+26,Squat ,WGC,87.8,0.3901190316042614,1.0,original,True
+27,Squat ,WGC,91.0,0.4750086305290049,1.0,original,True
+28,Squat ,WGC,94.2,0.513926261087027,1.0,original,True
+29,Squat ,WGC,84.6,0.5309563680406637,1.0,original,True
+30,Squat ,WGC,84.6,0.5509600819633274,1.0,original,True
+31,Jumping Jack,dillion,47.0,0.70049017194534,1.0,original,True
+32,Jumping Jack,dillion,43.0,0.5281258924625039,1.0,original,True
+33,Jumping Jack,dillion,44.8,0.658007040070814,1.0,original,True
+34,Jumping Jack,dillion,41.4,0.47261071969946294,1.0,original,True
+35,Jumping Jack,dillion,41.6,0.5951369790207948,1.0,original,True
+36,Push Up,dillion,49.4,0.6050623699414741,1.0,original,True
+37,Push Up,dillion,50.2,0.6258190370466452,1.0,original,True
+38,Push Up,dillion,38.8,0.6946874655432673,1.0,original,True
+39,Push Up,dillion,42.2,0.5995012439862619,1.0,original,True
+40,Push Up,dillion,61.8,0.5444022006371728,1.0,original,True
+41,Squat ,dillion,64.8,0.5095481957337252,1.0,original,True
+42,Squat ,dillion,63.8,0.48880940974804943,1.0,original,True
+43,Squat ,dillion,66.4,0.4363844643886736,1.0,original,True
+44,Squat ,dillion,65.8,0.5104146732111328,1.0,original,True
+45,Squat ,dillion,63.2,0.5491473070295056,1.0,original,True
+46,Jumping Jack,darren,48.0,0.5381036903575818,1.0,original,True
+47,Jumping Jack,darren,41.2,0.5389735489335055,1.0,original,True
+48,Jumping Jack,darren,30.6,0.5500564146400964,1.0,original,True
+49,Jumping Jack,darren,37.0,0.604610832556337,1.0,original,True
+50,Jumping Jack,darren,40.8,0.6252571544668271,1.0,original,True
+51,Push Up,darren,43.8,0.6752840467398824,1.0,original,True
+52,Push Up,darren,29.4,0.6379670342996797,1.0,original,True
+53,Push Up,darren,36.4,0.7212500509193237,1.0,original,True
+54,Push Up,darren,35.2,0.6920390522079971,1.0,original,True
+55,Push Up,darren,31.4,0.7067354218730886,1.0,original,True
+56,Squat ,darren,58.2,0.5785003320042925,1.0,original,True
+57,Squat ,darren,50.2,0.5169932675092775,1.0,original,True
+58,Squat ,darren,51.4,0.6250105252526481,1.0,original,True
+59,Squat ,darren,47.8,0.6296307973557106,1.0,original,True
+60,Squat ,darren,49.4,0.6698716391143706,1.0,original,True
+61,Jumping Jack,caden,56.6,0.6484053413431506,1.0,original,True
+62,Jumping Jack,caden,42.6,0.5040983503354661,1.0,original,True
+63,Jumping Jack,caden,45.8,0.5042431158966195,1.0,original,True
+64,Jumping Jack,caden,46.4,0.5230229035574705,1.0,original,True
+65,Jumping Jack,caden,36.0,0.5385805110904224,1.0,original,True
+66,Push Up,caden,48.6,0.61426442851307,1.0,original,True
+67,Push Up,caden,48.2,0.6169842666210323,1.0,original,True
+68,Push Up,caden,48.4,0.6085562087023858,1.0,original,True
+69,Push Up,caden,45.0,0.5849735212722381,1.0,original,True
+70,Push Up,caden,46.6,0.6332543933313187,1.0,original,True
+71,Squat ,caden,66.6,0.3927926382956858,1.0,original,True
+72,Squat ,caden,53.8,0.38370693940684386,1.0,original,True
+73,Squat ,caden,61.8,0.2943756015852842,1.0,original,True
+74,Squat ,caden,63.2,0.31371586728759204,1.0,original,True
+75,Squat ,caden,50.0,0.36138464429446804,1.0,original,True
+80001,noise,caden,84.0,0.3001861686538475,1.0,original,True
+80002,noise,caden,77.8,0.3715054019018722,1.0,original,True
+80003,noise,caden,75.6,0.3466749196487144,1.0,original,True
+80004,noise,caden,75.4,0.32251376345445715,1.0,original,True
+80005,noise,caden,69.8,0.3039262223213432,1.0,original,True
+80006,noise,darren,67.6,0.19248512241897686,1.0,original,True
+80007,noise,darren,69.6,0.23334263505223035,1.0,original,True
+80008,noise,darren,76.4,0.2745222909583752,1.0,original,True
+80009,noise,darren,71.6,0.24426770796924893,1.0,original,True
+80010,noise,darren,49.0,0.32384564162885265,1.0,original,True
+80011,noise,tse,97.0,0.5553423863371715,1.0,original,True
+80012,noise,tse,118.0,0.3856992927694639,1.0,original,True
+80013,noise,tse,90.8,0.3659200893132044,1.0,original,True
+80014,noise,tse,100.2,0.38684882835429324,1.0,original,True
+80015,noise,tse,99.8,0.35224248195276764,1.0,original,True
+80016,noise,gucheng,100.4,0.2663411255173122,1.0,original,True
+80017,noise,gucheng,55.2,0.3088306341888493,1.0,original,True
+80018,noise,gucheng,54.0,0.2973020645804377,1.0,original,True
+80019,noise,gucheng,53.8,0.27133925337643505,1.0,original,True
+80020,noise,gucheng,62.2,0.3163203138458898,1.0,original,True
